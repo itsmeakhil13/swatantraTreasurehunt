@@ -21,6 +21,9 @@
                 "shasum": ""
             },
             "require": {
+  "symfony/http-foundation": "3.4.35"
+},
+            "require": {
                 "php": ">=5.3.2"
             },
             "require-dev": {
